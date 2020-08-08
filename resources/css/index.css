@@ -1,0 +1,26 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    background-image: url(http://www.hdwallpapers.in/download/rosemary-1440x900.jpg);
+    background-position: top;
+}
+  
+  
+  h1 {
+    color: seashell ;
+    text-align: center;
+  }
+  
+  
+  p, 
+  li {
+    font-size: 18px;
+    background: transparent;
+    font-weight: bold;
+    background-color: transparent;
+  }
+  
+  
+  a {
+    text-decoration: none;
+  }
+  
